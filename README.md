@@ -11,7 +11,7 @@ A simple Python tool that extracts and summarizes the content of a webpage using
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/webpage-summarizer.git
+git clone https://github.com/knooob/webpage-summarizer.git
 cd webpage-summarizer
 ```
 
